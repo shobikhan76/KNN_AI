@@ -89,8 +89,8 @@ Muhammad Shoban
 
 ### 2D KNN Classification
 
-![2D KNN Classification](images/Figure_1.png)
+![2D KNN Classification](Figure_1.png)
 
 ### 3D KNN Classification
 
-![3D KNN Classification](images/Figure_2.png)
+![3D KNN Classification](Figure_2.png)
